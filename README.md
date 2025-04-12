@@ -1,24 +1,45 @@
-### Olá! Eu sou o Richard Ribeiro 👋
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-ribeiro-6a2a72245/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devrichard)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devrichaard/)
+###
 
-![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=devrichaard&show_icons=true&theme=transparent)
+<p align="left">Olá! Sou o Richard, um apaixonado por tecnologia em constante evolução!<br><br>📍 São Paulo, Brasil<br>📧 richardribeiropessoal@gmail.com  <br>🎓 Cursando Análise e Desenvolvimento de Sistemas (5º semestre) na Faculdade Impacta Tecnologia</p>
 
-### Tecnologia que eu uso no meu dia 🖥️
+###
 
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="js" width="40" heigth="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img aling="center" alt="react" width="40" heigth="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img aling="center" alt="html5" width="40" heigth="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img aling="center" alt="css" width="40" heigth="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img aling="center" alt="Pyton" width="40" heigth="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div><br/>
+<h2 align="left">Sobre mim</h2>
 
-## Entre em contato comigo 📧
+###
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardribeiropessoal@gmail.com)
+<p align="left">✨ Criando bugs desde...  <br>2023, quando descobri que cada erro é uma oportunidade para aprender algo novo!<br><br>📚 Atualmente estou aprendendo...  <br>- Python (Automação, Scripting e Análise de Dados) <br>- Fundamentos <br><br>🎯 Objetivos:  <br>- Atuar na área de CyberSecurity, Análise de Dados ou Desenvolvimento<br>- Desenvolver soluções seguras e eficientes<br>- Contribuir para projetos open-source relacionados a segurança e automação<br>- Unir suporte técnico, programação e segurança para resolver problemas complexos<br><br>🎲 Curiosidades:  <br>- 🏋️‍♂️ Adoro manter uma rotina saudável para equilibrar vida de programador  <br>- 🎮 Apaixonado por video games (e sempre analiso a programação por trás deles!)  <br>- 📚 Autodidata - sempre buscando conhecimento no meu tempo livre  <br>- Acredito que "commit" não é só no Git, mas no crescimento diário  <br><br>💼 Experiência Relevante:<br>- Estágio em T.I (Suporte Técnico e Troubleshooting)<br>- Atendimento ao Cliente com Visão Técnica</p>
 
+###
 
+<h2 align="left">Linguagens/Frameworks</h2>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h2 align="left">Redes Sociais</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/richardribeirorodrigues/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
