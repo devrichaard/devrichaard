@@ -1,45 +1,118 @@
-<h1 align="left">Olá 👋 Tudo bem?</h1>
+<h1 align="center">Olá, eu sou o Richard Ribeiro 👋</h1>
 
-###
+<h3 align="center">
+  Infraestrutura de TI • Cybersecurity • Python • Linux • DevSecOps
+</h3>
 
-<p align="left">Olá! Sou o Richard, um apaixonado por tecnologia em constante evolução!<br><br>📍 São Paulo, Brasil<br>📧 richardribeiropessoal@gmail.com  <br>🎓 Cursando Análise e Desenvolvimento de Sistemas (5º semestre) na Faculdade Impacta Tecnologia</p>
+<p align="center">
+  Profissional de Tecnologia da Informação com experiência em infraestrutura,
+  suporte N1/N2, administração de sistemas, segurança da informação e automação de processos.
+</p>
 
-###
+<p align="center">
+  📍 São Paulo, Brasil
+</p>
 
-<h2 align="left">Sobre mim</h2>
+---
 
-###
+## 👨‍💻 Sobre mim
 
-<p align="left">✨ Criando bugs desde...  <br>2023, quando descobri que cada erro é uma oportunidade para aprender algo novo!<br><br>📚 Atualmente estou aprendendo...  <br>- Python (Automação, Scripting e Análise de Dados) <br>- Fundamentos <br><br>🎯 Objetivos:  <br>- Atuar na área de CyberSecurity, Análise de Dados ou Desenvolvimento<br>- Desenvolver soluções seguras e eficientes<br>- Contribuir para projetos open-source relacionados a segurança e automação<br>- Unir suporte técnico, programação e segurança para resolver problemas complexos<br><br>🎲 Curiosidades:  <br>- 🏋️‍♂️ Adoro manter uma rotina saudável para equilibrar vida de programador  <br>- 🎮 Apaixonado por video games (e sempre analiso a programação por trás deles!)  <br>- 📚 Autodidata - sempre buscando conhecimento no meu tempo livre  <br>- Acredito que "commit" não é só no Git, mas no crescimento diário  <br><br>💼 Experiência Relevante:<br>- Estágio em T.I (Suporte Técnico e Troubleshooting)<br>- Atendimento ao Cliente com Visão Técnica</p>
+Atualmente atuo como **Assistente de Infraestrutura**, trabalhando diretamente com suporte técnico, administração de ambientes corporativos Microsoft, gerenciamento de dispositivos, segurança da informação e automação.
 
-###
+Minha trajetória profissional começou com suporte e infraestrutura, e atualmente estou direcionando minha evolução para a integração entre:
 
-<h2 align="left">Linguagens/Frameworks</h2>
+**Infraestrutura + Desenvolvimento + Cybersecurity + DevSecOps**
 
-###
+Tenho experiência prática com ambientes Microsoft, gerenciamento de identidades, dispositivos, monitoramento, redes e segurança, além de utilizar programação e automação para otimizar processos de TI.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
+---
 
-###
+## 💼 Experiência atual
 
-<h2 align="left">Redes Sociais</h2>
+### 🖥️ Assistente de Infraestrutura
 
-###
+Atuação em ambiente corporativo com:
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/richardribeirorodrigues/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+- Suporte técnico **N1/N2**
+- Troubleshooting e resolução de incidentes
+- Microsoft 365
+- Microsoft Entra ID / Azure AD
+- Exchange Online
+- SharePoint
+- Microsoft Intune
+- Active Directory
+- Gerenciamento de usuários, grupos e permissões
+- MDM / MAM
+- VPN
+- Gerenciamento de dispositivos corporativos
+- Kaspersky Security Center
+- Monitoramento de ameaças
+- MFA / 2FA
+- Identificação inicial de phishing
+- Controle de acessos
+- Automação de processos
+- Python
+- Microsoft Power Automate
 
-###
+Também possuo experiência anterior em infraestrutura e suporte de TI, envolvendo:
+
+- Active Directory
+- GLPI
+- OCS Inventory
+- Zabbix
+- Grafana
+- Print Server
+- Papercut
+- Suporte remoto e presencial
+- Manutenção e configuração de computadores
+
+---
+
+## 🎓 Formação
+
+🎓 **Análise e Desenvolvimento de Sistemas**  
+Faculdade Impacta Tecnologia  
+✅ Concluído em 2025
+
+🔐 **Pós-Graduação em Cyber Offensive e Red Team Operations**  
+Faculdade Impacta Tecnologia  
+📚 Em andamento — conclusão prevista para 2027
+
+🛡️ **Engenharia de Software com ênfase em Engenharia de Cibersegurança**  
+Instituto Infnet  
+📚 Em andamento — conclusão prevista para 2030
+
+---
+
+## 🚀 Atualmente estudando
+
+```text
+Python
+├── Fundamentos
+├── Automação
+├── Scripting
+├── APIs
+└── Automação para infraestrutura
+
+SQL
+├── Consultas
+├── PostgreSQL
+├── JOINs
+└── Modelagem de dados
+
+Linux
+├── Terminal
+├── Administração
+├── Permissões
+├── Processos
+├── Redes
+└── Shell
+
+Cybersecurity
+├── Segurança da Informação
+├── Redes
+├── Gestão de Identidades
+├── Hardening
+├── Offensive Security
+├── Red Team
+└── DevSecOps
